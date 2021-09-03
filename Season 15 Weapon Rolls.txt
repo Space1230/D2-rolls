@@ -1,0 +1,16 @@
+title:space1230's Season 15 loot list
+description:my own special list
+
+// Shepherd's Watch (space1230)
+// notes: for Boss Damage in Raids (range, boss)
+dimwishlist:item=3743729616&perks=839105230,1087426260,1168162263,1771339417,2697220197
+
+// Shepherd's Watch (space1230)
+// notes: general use (range, major)
+dimwishlist:item=3743729616&perks=839105230,1087426260,1168162263,4104185692,2697220197
+
+// Vulpecula (space1230)
+// notes: range mw and backup mag
+dimwishlist:item=1622998472&perks=1840239774,106909392,2946784966,3038247973,2697220197
+dimwishlist:item=1622998472&perks=1840239774,106909392,1195158366,124408337,2697220197
+dimwishlist:item=1622998472&perks=1840239774,106909392,2621346526,3038247973,2697220197
